@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE BARRIERS OF LIGHT</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "PAPYRUS", serif; 
+            background: beige;
+            color: #2E6F40;
+            scroll-behavior: smooth;
+        }
+       
+        nav {
+            background: beige;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            position: sticky;
+            top: 0;
+            z-index: 999;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #2E6F40;
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+
+        nav a:hover {
+            opacity: 0.8;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background: #2E6F40;
+            color: beige;
+            font-size: 3.25em;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 45px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+			}
+
+        .card h2 {
+            margin-top: 0;
+            color: #2E6F40;
+        }
+
+        .image-box img {
+            max-width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-top: 10px;
+			}
+        
+			footer {
+            text-align: center;
+            padding: 30px;
+            color: beige;
+            background: #2E6F40;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- NAVIGATION BAR -->
+<nav>
+    <a href="#about">About</a>
+    <a href="#desc">Description</a>
+    <a href="#layouts">Visualizations</a>
+    <a href="#g&b">Goals and Benefits</a>
+	 <a href="#eval">Evaluation</a>
+</nav>
+
+<header>
+    THE BARRIERS OF LIGHT ☀️
+</header>
+
+<div class="container">
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="card">
+            <h2>Learn more about The Barriers of Light (ひかり しょうへき)</h2>
+            <b>
+               You might wonder why does The Barriers of Light called "The Barriers of Light"? well, this diorama is not just a diorama— it symbolizes peace and love, and most importantly, it echoes equality. With that being said, this project consists of different situations of students in Trinity High School that, most of the time goes unnoticed, presented in an innovative and a creative way. Furthermore, the Barriers of Light portrays the struggles of some students inside the campus that were caused by inequality, discrimination, and prejudice. For a better understanding of this PBLD, please scroll down. 
+            </b>
+        </div>
+    </section>
+
+	<!-- Desc Section -->
+    <section id="desc">
+        <div class="card">
+            <h2>DIORAMA</h2>
+					<b>In the diorama, females represented the unprivileged, as it shows feminism (フェミニズム) and discrimination (さべつ) towards women. Back in the day, Japanese (Meiji Era) and Pakistanis women were not given the same opportunity as men—they weren’t able to enter school and study, unlike men. That’s why in our diorama, there are women that symbolize the girls who couldn’t study, showing weakness as they did not have the power to prove themselves to others unlike the privileged, specifically in our school (がっこう). Moreover, just like animals, if their appearance or features are not suitable for an environment, they adapt and change, but in our case it’s the students. The students who change themselves solely to fit in a society—how they look, how they talk, and sometimes even their whole personality. Meanwhile, the other side echoed victory and satisfaction. This side is represented by men. These are the students who are said to be popular, intelligent, excellent at sports (スポーツ), and more. These students are given more attention and praise than those who are less privileged. Most of the time, others tend to trust them easily, as they had set an image of being responsible and reliable. To summarize it all, this diorama doesn’t talk about men being more powerful than women; it’s about how some people choose who to respect and who to judge based on their social status. And we believe this expresses inequality (ふびょうどう) and discrimination, as our dignity should not be measured by our social status because despite being different from each other, we are still connected with one another as we are all made by God. Hence, every student in the THS community deserves to be treated fairly and respectfully, and no one should experience being thrown with hate, cruel words, and hurtful actions.</b>
+				
+        </div>
+</section>
+
+<!-- Visualization Section -->
+    <section id="layouts">
+        <div class="card">
+            <h2>Blueprint of the Location (あおじゃしん)</h2>
+            <p>For a clearer visualization, The Barriers of Light used the THS Campus as its settings and a circular base for the Diorama. Click here for the full blueprint, land navigation and measurements:</p>
+	<a href="https://drive.google.com/drive/folders/1NBKDtRYlGgOnyZaCWIMhDxQsk0b2PMCO">VISUALIZATION</a>
+	<hr>
+            </div>
+    </section>
+<br>
+
+    <!-- Desc Section -->
+    <section id="g&b">
+        <div class="card">
+            <h2>GOALS (もくひょう) AND BENEFITS (りてん)</h2>
+            <style>
+                table {width: 100%; border-collapse: collapse}
+                th, td {border: 1px solid; padding: 10px; text-align: center}
+                th {background-color: #EDE8D0}
+            </style>
+            <caption><b>The Main Purpose of The Barriers Of Light</b></caption>
+            <br>
+            <table>
+                <thead>
+                <tr>
+                    <th scope="col">GOALS</th>
+                    <th scope="col">BENEFITS</th>
+                </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td scope="row"><b>Spread awareness about Social Division </b></th>
+                        <td scope="row"><b>Access to the Guidance</b></th>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                        <td scope="row"><b>Promote Equality</b></td>
+                        <td scope="row"><b>Learn more about Treating People with Fairness</b></td>
+                    </tr>
+                </tbody>
+</table>
+</div>
+</section>
+
+<section>
+    <!-- Evaluation Section -->
+    <section id="eval">
+        <div class="card">
+            <h2>Evaluation</h2>
+            <b>Help our team by evaluating the Barriers of Light! Please click the google form below.</b>
+<br>
+			
+				<hr>
+				<a href="https://forms.gle/pzRTGXv67guo1GJe8">EVALUATION FORM</a>
+				<hr>
+					<b>This google form will also contain a section wherein you can share the things you've experienced in school that are related to Inequality and Discrimination.</b>
+				<b>Moreover, with the given informations and your consent, our team would be able to refer you to our guidance counselor.</b>
+				
+        </div>
+    </section>
+
+<footer>
+Spread Peace and Equality for All. ☮️
+</footer>
+
+</body>
+</html>
